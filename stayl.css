@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  body, html {
+    height: 100%;
+  }
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("HASSANE\ LBN.png") no-repeat right center;
+    background-size: contain;
+    background-color: #00b4d8;
+    padding: 20px;
+  }
+  .content {
+
+    max-width: 600px;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 15px;
+    color: white;
+    text-align: left;
+    height: 50%;
+    width: 40%;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: white;
+    color: #0077b6;
+    border-radius: 5px;
+    font-weight: bold;
+   
+  }
+  
+  .btn:hover {
+    background-color: #caf0f8;
+  }
