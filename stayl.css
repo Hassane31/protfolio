@@ -11,25 +11,25 @@ body  {
 }
 .container {
   height: 100vh;
-  width: 100%;
+  
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("hassane\ 2.png" )  no-repeat  center;
+  background: url("HASSANE\ LBN.png" )  no-repeat right center;
   background-size: contain;
-  
   padding: 20px;
 }
 .content {
 
-
-  background-color: rgba(230, 230, 230, 0.443);
+margin-top: 1000px;
+  background-color: rgba(255, 255, 255, 0.349);
   padding: 30px;
   border-radius: 15px;
   color: white;
   text-align: left;
-  height: 50%;
-  width: 40%;
+  height: 140%;
+  width: 75%;
+  border: solid 4px;
 }
 
 h1 {
@@ -42,26 +42,16 @@ p {
   margin-bottom: 20px;
 }
 
-.btn {
-  text-decoration: none;
-  padding: 10px 20px;
-  background-color: white;
-  color: #0077b6;
-  border-radius: 5px;
-  font-weight: bold;
- 
-}
 
-.btn:hover {
-  background-color: #caf0f8;
-}
 a { text-decoration: none;
-  padding: 10px 20px;
+  padding: 20px 50px;
   background-color: white;
   color: #0077b6;
   border-radius: 5px;
   font-weight: bold;
- 
+position: relative;
+left:  1020px;
+
 }
 a:hover {
   background-color: #63afe1;
