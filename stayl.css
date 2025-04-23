@@ -5,9 +5,9 @@
   font-family: sans-serif;
 }
 
-body, html {
-  height: 500vh;
-  background: #0b9decec;
+body  {
+  height: 150vh;
+  background: #5ba1d6dc;
 }
 .container {
   height: 100vh;
@@ -15,15 +15,15 @@ body, html {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url("HASSANE\ LBN.png") no-repeat right center;
+  background: url("hassane\ 2.png" )  no-repeat  center;
   background-size: contain;
-  background-color: #00b4d8;
+  
   padding: 20px;
 }
 .content {
 
 
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(230, 230, 230, 0.443);
   padding: 30px;
   border-radius: 15px;
   color: white;
